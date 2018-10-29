@@ -1,1 +1,5 @@
-**/lectures
+*.mp4
+*.vtt
+**/lectures/*
+!**/lectures/*.py
+!**/lectures/*.txt
